@@ -26,6 +26,7 @@ a:hover {
 	align-items: center;
 	font-size: 40px;
 	flex-direction: row;
+  margin: 10px;
 }
 #flexbox {
 	display: flex;
